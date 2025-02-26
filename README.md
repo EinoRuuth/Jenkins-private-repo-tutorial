@@ -1,4 +1,4 @@
-# Jenkins-private-repo-tutorial
+# Jenkins private github repo tutorial
 ## kuinka tehdä ssh avaimet
 ekana katso että services kohdassa on opensshagen päällä
 <img height="100" src="https://media.discordapp.net/attachments/1143805627718713375/1344335041500545134/Screenshot_155.png?ex=67c08912&is=67bf3792&hm=9c312ad119ad7276e13d36da7973bf33adfd615dca931bf90d5554e3f9c0c9b8&=&format=webp&quality=lossless&width=609&height=92">
